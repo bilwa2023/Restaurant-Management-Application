@@ -55,7 +55,12 @@ restaurant_management_system/
 │   └── ...
 └── README.md
 ```
+## 🖼️ Screenshots
 
+## 🙋‍♂️ Contributors
+- Bilwamangal Biswal 
+- SatyPrakash Satpathy
+  
 ## Requirement
     
 
