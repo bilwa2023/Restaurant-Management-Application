@@ -9,8 +9,8 @@ A comprehensive restaurant management system built to streamline operations such
 - [🔧 Features](#-features)
 - [💻 Tech Stack](#-tech-stack)
 - [📁 Project Structure](#-project-structure)
-- [🖼️ Screenshots](#-screenshots)
-- [🙋‍♂️ Contributors](#-contributors)
+- [🖼️ Screenshots](#screenshots)
+- [🙋‍♂️ Contributors](#contributors)
 - [Requirement](#-requirement)
 
 ---
