@@ -56,7 +56,13 @@ restaurant_management_system/
 └── README.md
 ```
 ## 🖼️ Screenshots
-
+- ![Restaurant Homepage](Screenshots/Homepage.png)
+- ![All Menus](Screenshots/Customer_page.png)
+- ![Order place](Screenshots/Place_order.png)
+- ![Order tracking](Screenshots/Order_tracking.png)
+- ![Billing](Screenshots/Billing.png)
+- ![Admin Login Page](Screenshots/Admin_Login_Page.png)
+- ![Admin Order Management](Screenshots/Admin_Order_Management.png)
 ## 🙋‍♂️ Contributors
 - Bilwamangal Biswal 
 - SatyPrakash Satpathy
@@ -83,6 +89,8 @@ restaurant_management_system/
     python manage.py migrate
 
     python manage.py runserver
+
+    
 
 
 
